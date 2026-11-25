@@ -8,7 +8,8 @@
 // voice, then asks why they stopped rocking an empty crib. The horror lands
 // in two moves — the voice is stolen, and the crib is empty, so whatever
 // the monitor is rocking, or watching, is not the baby. One sentence, one
-// breath, no setup beyond the object every nursery already has.
+// breath, no setup beyond an object every nursery already has, which is
+// exactly what makes it frightening.
 // Verified by running the program: the output is exactly 100 characters,
 // one sentence, one line.
 
